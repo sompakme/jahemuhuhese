@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jahemuhuhese.pages.dev/sitemap.xml
